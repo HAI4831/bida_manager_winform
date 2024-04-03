@@ -1,0 +1,520 @@
+D:\DoAn(Final)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.csproj.AssemblyReference.cache
+D:\DoAn(Final)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.csproj.SuggestedBindingRedirects.cache
+D:\DoAn(Final)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.csproj.GenerateResource.cache
+D:\DoAn(Final)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.csproj.CoreCompileInputs.cache
+D:\DoAn(Final)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.f_TableManager.resources
+D:\DoAn(Final)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.AdminFood.resources
+D:\DoAn(Final)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.AdminTable.resources
+D:\DoAn(Final)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.Form1.resources
+D:\DoAn(Final)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.f_AdminBill.resources
+D:\DoAn(Final)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.AdminCategory.resources
+D:\DoAn(Final)\Testform\PlayerUI\bin\Debug\QuanLyBanBida.exe.config
+D:\DoAn(Final)\Testform\PlayerUI\bin\Debug\QuanLyBanBida.exe
+D:\DoAn(Final)\Testform\PlayerUI\bin\Debug\QuanLyBanBida.pdb
+D:\DoAn(Final)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.Properties.Resources.resources
+D:\DoAn(Final)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.exe
+D:\DoAn(Final)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.pdb
+D:\DoAn(Final)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.AdminAccount.resources
+D:\DoAn(Final)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.AdminCustom.resources
+C:\Users\PC\Downloads\QuanLyBanBida\Testform\PlayerUI\bin\Debug\QuanLyBanBida.exe.config
+C:\Users\PC\Downloads\QuanLyBanBida\Testform\PlayerUI\bin\Debug\QuanLyBanBida.exe
+C:\Users\PC\Downloads\QuanLyBanBida\Testform\PlayerUI\bin\Debug\QuanLyBanBida.pdb
+C:\Users\PC\Downloads\QuanLyBanBida\Testform\PlayerUI\obj\Debug\QuanLyBanBida.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\QuanLyBanBida\Testform\PlayerUI\obj\Debug\QuanLyBanBida.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Downloads\QuanLyBanBida\Testform\PlayerUI\obj\Debug\QuanLyBanBida.AdminAccount.resources
+C:\Users\PC\Downloads\QuanLyBanBida\Testform\PlayerUI\obj\Debug\QuanLyBanBida.AdminCustom.resources
+C:\Users\PC\Downloads\QuanLyBanBida\Testform\PlayerUI\obj\Debug\QuanLyBanBida.AdminTable.resources
+C:\Users\PC\Downloads\QuanLyBanBida\Testform\PlayerUI\obj\Debug\QuanLyBanBida.Form1.resources
+C:\Users\PC\Downloads\QuanLyBanBida\Testform\PlayerUI\obj\Debug\QuanLyBanBida.f_AdminBill.resources
+C:\Users\PC\Downloads\QuanLyBanBida\Testform\PlayerUI\obj\Debug\QuanLyBanBida.f_TableManager.resources
+C:\Users\PC\Downloads\QuanLyBanBida\Testform\PlayerUI\obj\Debug\QuanLyBanBida.AdminFood.resources
+C:\Users\PC\Downloads\QuanLyBanBida\Testform\PlayerUI\obj\Debug\QuanLyBanBida.AdminCategory.resources
+C:\Users\PC\Downloads\QuanLyBanBida\Testform\PlayerUI\obj\Debug\QuanLyBanBida.Properties.Resources.resources
+C:\Users\PC\Downloads\QuanLyBanBida\Testform\PlayerUI\obj\Debug\QuanLyBanBida.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\QuanLyBanBida\Testform\PlayerUI\obj\Debug\QuanLyBanBida.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\QuanLyBanBida\Testform\PlayerUI\obj\Debug\QuanLyBanBida.exe
+C:\Users\PC\Downloads\QuanLyBanBida\Testform\PlayerUI\obj\Debug\QuanLyBanBida.pdb
+D:\DoAn(Final)\QuanLyBanBida\QuanLyBanBida\Testform\PlayerUI\bin\Debug\QuanLyBanBida.exe.config
+D:\DoAn(Final)\QuanLyBanBida\QuanLyBanBida\Testform\PlayerUI\bin\Debug\QuanLyBanBida.exe
+D:\DoAn(Final)\QuanLyBanBida\QuanLyBanBida\Testform\PlayerUI\bin\Debug\QuanLyBanBida.pdb
+D:\DoAn(Final)\QuanLyBanBida\QuanLyBanBida\Testform\PlayerUI\bin\Debug\Guna.UI2.dll
+D:\DoAn(Final)\QuanLyBanBida\QuanLyBanBida\Testform\PlayerUI\obj\Debug\QuanLyBanBida.csproj.AssemblyReference.cache
+D:\DoAn(Final)\QuanLyBanBida\QuanLyBanBida\Testform\PlayerUI\obj\Debug\QuanLyBanBida.csproj.SuggestedBindingRedirects.cache
+D:\DoAn(Final)\QuanLyBanBida\QuanLyBanBida\Testform\PlayerUI\obj\Debug\QuanLyBanBida.AccountProfile.resources
+D:\DoAn(Final)\QuanLyBanBida\QuanLyBanBida\Testform\PlayerUI\obj\Debug\QuanLyBanBida.AdminAccount.resources
+D:\DoAn(Final)\QuanLyBanBida\QuanLyBanBida\Testform\PlayerUI\obj\Debug\QuanLyBanBida.AdminCustom.resources
+D:\DoAn(Final)\QuanLyBanBida\QuanLyBanBida\Testform\PlayerUI\obj\Debug\QuanLyBanBida.AdminTable.resources
+D:\DoAn(Final)\QuanLyBanBida\QuanLyBanBida\Testform\PlayerUI\obj\Debug\QuanLyBanBida.Chatbot.resources
+D:\DoAn(Final)\QuanLyBanBida\QuanLyBanBida\Testform\PlayerUI\obj\Debug\QuanLyBanBida.Form1.resources
+D:\DoAn(Final)\QuanLyBanBida\QuanLyBanBida\Testform\PlayerUI\obj\Debug\QuanLyBanBida.f_AdminBill.resources
+D:\DoAn(Final)\QuanLyBanBida\QuanLyBanBida\Testform\PlayerUI\obj\Debug\QuanLyBanBida.Login.resources
+D:\DoAn(Final)\QuanLyBanBida\QuanLyBanBida\Testform\PlayerUI\obj\Debug\QuanLyBanBida.f_TableManager.resources
+D:\DoAn(Final)\QuanLyBanBida\QuanLyBanBida\Testform\PlayerUI\obj\Debug\QuanLyBanBida.AdminFood.resources
+D:\DoAn(Final)\QuanLyBanBida\QuanLyBanBida\Testform\PlayerUI\obj\Debug\QuanLyBanBida.AdminCategory.resources
+D:\DoAn(Final)\QuanLyBanBida\QuanLyBanBida\Testform\PlayerUI\obj\Debug\QuanLyBanBida.Properties.Resources.resources
+D:\DoAn(Final)\QuanLyBanBida\QuanLyBanBida\Testform\PlayerUI\obj\Debug\QuanLyBanBida.csproj.GenerateResource.cache
+D:\DoAn(Final)\QuanLyBanBida\QuanLyBanBida\Testform\PlayerUI\obj\Debug\QuanLyBanBida.csproj.CoreCompileInputs.cache
+D:\DoAn(Final)\QuanLyBanBida\QuanLyBanBida\Testform\PlayerUI\obj\Debug\QuanLyBanBida.csproj.CopyComplete
+D:\DoAn(Final)\QuanLyBanBida\QuanLyBanBida\Testform\PlayerUI\obj\Debug\QuanLyBanBida.exe
+D:\DoAn(Final)\QuanLyBanBida\QuanLyBanBida\Testform\PlayerUI\obj\Debug\QuanLyBanBida.pdb
+D:\DoAn(Final)\QuanLyBanBida\QuanLyBanBida\Testform\PlayerUI\obj\Debug\QuanLyBanBida.ForgotPassword.resources
+D:\Học Tập\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.csproj.AssemblyReference.cache
+D:\Học Tập\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.AccountProfile.resources
+D:\Học Tập\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.AdminAccount.resources
+D:\Học Tập\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.AdminCustom.resources
+D:\Học Tập\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.AdminTable.resources
+D:\Học Tập\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.Chatbot.resources
+D:\Học Tập\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.ForgotPassword.resources
+D:\Học Tập\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.Form1.resources
+D:\Học Tập\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.f_AdminBill.resources
+D:\Học Tập\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.Login.resources
+D:\Học Tập\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.f_TableManager.resources
+D:\Học Tập\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.AdminFood.resources
+D:\Học Tập\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.AdminCategory.resources
+D:\Học Tập\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.Properties.Resources.resources
+D:\Học Tập\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.csproj.GenerateResource.cache
+D:\Học Tập\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.csproj.CoreCompileInputs.cache
+D:\Học Tập\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.exe
+D:\Học Tập\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.pdb
+D:\DoAn(Final)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\QuanLyBanBida.exe.config
+D:\DoAn(Final)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\QuanLyBanBida.exe
+D:\DoAn(Final)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\QuanLyBanBida.pdb
+D:\DoAn(Final)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\Guna.UI2.dll
+D:\DoAn(Final)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.csproj.AssemblyReference.cache
+D:\DoAn(Final)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.csproj.SuggestedBindingRedirects.cache
+D:\DoAn(Final)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.AccountProfile.resources
+D:\DoAn(Final)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.AdminAccount.resources
+D:\DoAn(Final)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.AdminCustom.resources
+D:\DoAn(Final)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.AdminTable.resources
+D:\DoAn(Final)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.Chatbot.resources
+D:\DoAn(Final)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.ForgotPassword.resources
+D:\DoAn(Final)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.Form1.resources
+D:\DoAn(Final)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.f_AdminBill.resources
+D:\DoAn(Final)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.Login.resources
+D:\DoAn(Final)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.f_TableManager.resources
+D:\DoAn(Final)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.AdminFood.resources
+D:\DoAn(Final)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.AdminCategory.resources
+D:\DoAn(Final)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.Properties.Resources.resources
+D:\DoAn(Final)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.csproj.GenerateResource.cache
+D:\DoAn(Final)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.csproj.CoreCompileInputs.cache
+D:\DoAn(Final)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.csproj.CopyComplete
+D:\DoAn(Final)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.exe
+D:\DoAn(Final)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.pdb
+D:\DoAn(Final)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\PdfSharp.Charting.dll
+D:\DoAn(Final)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\PdfSharp.dll
+D:\DoAn(Final)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\PdfSharp.xml
+D:\DoAn(Final)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\PdfSharp.Charting.xml
+D:\DoAn(Final)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\de\PdfSharp.resources.dll
+D:\DoAn(Final)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\DoAn(Final)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DoAn(Final)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\Newtonsoft.Json.dll
+D:\DoAn(Final)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\RestSharp.dll
+D:\DoAn(Final)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\System.Buffers.dll
+D:\DoAn(Final)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\System.Memory.dll
+D:\DoAn(Final)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\System.Numerics.Vectors.dll
+D:\DoAn(Final)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\DoAn(Final)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\System.Text.Encodings.Web.dll
+D:\DoAn(Final)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\System.Text.Json.dll
+D:\DoAn(Final)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\DoAn(Final)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\System.ValueTuple.dll
+D:\DoAn(Final)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\DoAn(Final)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\Newtonsoft.Json.xml
+D:\DoAn(Final)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\RestSharp.xml
+D:\DoAn(Final)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\System.Buffers.xml
+D:\DoAn(Final)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\System.Memory.xml
+D:\DoAn(Final)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\System.Numerics.Vectors.xml
+D:\DoAn(Final)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\DoAn(Final)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\System.Text.Encodings.Web.xml
+D:\DoAn(Final)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\System.Text.Json.xml
+D:\DoAn(Final)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\DoAn(Final)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\System.ValueTuple.xml
+C:\Users\Fuleim\Downloads\QuanLyQuanBida(finalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\QuanLyBanBida.exe.config
+C:\Users\Fuleim\Downloads\QuanLyQuanBida(finalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\QuanLyBanBida.exe
+C:\Users\Fuleim\Downloads\QuanLyQuanBida(finalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\QuanLyBanBida.pdb
+C:\Users\Fuleim\Downloads\QuanLyQuanBida(finalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\Guna.UI2.dll
+C:\Users\Fuleim\Downloads\QuanLyQuanBida(finalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Fuleim\Downloads\QuanLyQuanBida(finalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Fuleim\Downloads\QuanLyQuanBida(finalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Fuleim\Downloads\QuanLyQuanBida(finalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\PdfSharp.dll
+C:\Users\Fuleim\Downloads\QuanLyQuanBida(finalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\RestSharp.dll
+C:\Users\Fuleim\Downloads\QuanLyQuanBida(finalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\System.Buffers.dll
+C:\Users\Fuleim\Downloads\QuanLyQuanBida(finalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\System.Memory.dll
+C:\Users\Fuleim\Downloads\QuanLyQuanBida(finalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Fuleim\Downloads\QuanLyQuanBida(finalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Fuleim\Downloads\QuanLyQuanBida(finalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Fuleim\Downloads\QuanLyQuanBida(finalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\System.Text.Json.dll
+C:\Users\Fuleim\Downloads\QuanLyQuanBida(finalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Fuleim\Downloads\QuanLyQuanBida(finalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\System.ValueTuple.dll
+C:\Users\Fuleim\Downloads\QuanLyQuanBida(finalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Fuleim\Downloads\QuanLyQuanBida(finalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Fuleim\Downloads\QuanLyQuanBida(finalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\PdfSharp.xml
+C:\Users\Fuleim\Downloads\QuanLyQuanBida(finalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Fuleim\Downloads\QuanLyQuanBida(finalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\RestSharp.xml
+C:\Users\Fuleim\Downloads\QuanLyQuanBida(finalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\System.Buffers.xml
+C:\Users\Fuleim\Downloads\QuanLyQuanBida(finalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\System.Memory.xml
+C:\Users\Fuleim\Downloads\QuanLyQuanBida(finalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Fuleim\Downloads\QuanLyQuanBida(finalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Fuleim\Downloads\QuanLyQuanBida(finalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Fuleim\Downloads\QuanLyQuanBida(finalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\System.Text.Json.xml
+C:\Users\Fuleim\Downloads\QuanLyQuanBida(finalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Fuleim\Downloads\QuanLyQuanBida(finalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\System.ValueTuple.xml
+C:\Users\Fuleim\Downloads\QuanLyQuanBida(finalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Fuleim\Downloads\QuanLyQuanBida(finalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\Fuleim\Downloads\QuanLyQuanBida(finalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.csproj.AssemblyReference.cache
+C:\Users\Fuleim\Downloads\QuanLyQuanBida(finalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fuleim\Downloads\QuanLyQuanBida(finalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.AccountProfile.resources
+C:\Users\Fuleim\Downloads\QuanLyQuanBida(finalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.AdminAccount.resources
+C:\Users\Fuleim\Downloads\QuanLyQuanBida(finalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.AdminCustom.resources
+C:\Users\Fuleim\Downloads\QuanLyQuanBida(finalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.AdminTable.resources
+C:\Users\Fuleim\Downloads\QuanLyQuanBida(finalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.Chatbot.resources
+C:\Users\Fuleim\Downloads\QuanLyQuanBida(finalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.ForgotPassword.resources
+C:\Users\Fuleim\Downloads\QuanLyQuanBida(finalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.Form1.resources
+C:\Users\Fuleim\Downloads\QuanLyQuanBida(finalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.f_AdminBill.resources
+C:\Users\Fuleim\Downloads\QuanLyQuanBida(finalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.Login.resources
+C:\Users\Fuleim\Downloads\QuanLyQuanBida(finalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.f_TableManager.resources
+C:\Users\Fuleim\Downloads\QuanLyQuanBida(finalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.AdminFood.resources
+C:\Users\Fuleim\Downloads\QuanLyQuanBida(finalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.AdminCategory.resources
+C:\Users\Fuleim\Downloads\QuanLyQuanBida(finalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.Properties.Resources.resources
+C:\Users\Fuleim\Downloads\QuanLyQuanBida(finalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.csproj.GenerateResource.cache
+C:\Users\Fuleim\Downloads\QuanLyQuanBida(finalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.csproj.CoreCompileInputs.cache
+C:\Users\Fuleim\Downloads\QuanLyQuanBida(finalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.csproj.CopyComplete
+C:\Users\Fuleim\Downloads\QuanLyQuanBida(finalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.exe
+C:\Users\Fuleim\Downloads\QuanLyQuanBida(finalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.pdb
+C:\Users\PC\OneDrive\Máy tính\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\QuanLyBanBida.exe.config
+C:\Users\PC\OneDrive\Máy tính\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\QuanLyBanBida.exe
+C:\Users\PC\OneDrive\Máy tính\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\QuanLyBanBida.pdb
+C:\Users\PC\OneDrive\Máy tính\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\Guna.UI2.dll
+C:\Users\PC\OneDrive\Máy tính\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC\OneDrive\Máy tính\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PC\OneDrive\Máy tính\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\PdfSharp.Charting.dll
+C:\Users\PC\OneDrive\Máy tính\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\PdfSharp.dll
+C:\Users\PC\OneDrive\Máy tính\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\RestSharp.dll
+C:\Users\PC\OneDrive\Máy tính\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\System.Buffers.dll
+C:\Users\PC\OneDrive\Máy tính\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\System.Memory.dll
+C:\Users\PC\OneDrive\Máy tính\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC\OneDrive\Máy tính\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC\OneDrive\Máy tính\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\PC\OneDrive\Máy tính\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\System.Text.Json.dll
+C:\Users\PC\OneDrive\Máy tính\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\PC\OneDrive\Máy tính\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\System.ValueTuple.dll
+C:\Users\PC\OneDrive\Máy tính\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\PC\OneDrive\Máy tính\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PC\OneDrive\Máy tính\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\PdfSharp.xml
+C:\Users\PC\OneDrive\Máy tính\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\PdfSharp.Charting.xml
+C:\Users\PC\OneDrive\Máy tính\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\RestSharp.xml
+C:\Users\PC\OneDrive\Máy tính\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\System.Buffers.xml
+C:\Users\PC\OneDrive\Máy tính\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\System.Memory.xml
+C:\Users\PC\OneDrive\Máy tính\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC\OneDrive\Máy tính\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC\OneDrive\Máy tính\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\PC\OneDrive\Máy tính\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\System.Text.Json.xml
+C:\Users\PC\OneDrive\Máy tính\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\PC\OneDrive\Máy tính\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\System.ValueTuple.xml
+C:\Users\PC\OneDrive\Máy tính\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\PC\OneDrive\Máy tính\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\PC\OneDrive\Máy tính\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Máy tính\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\OneDrive\Máy tính\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.AccountProfile.resources
+C:\Users\PC\OneDrive\Máy tính\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.AdminAccount.resources
+C:\Users\PC\OneDrive\Máy tính\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.AdminCustom.resources
+C:\Users\PC\OneDrive\Máy tính\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.AdminTable.resources
+C:\Users\PC\OneDrive\Máy tính\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.Chatbot.resources
+C:\Users\PC\OneDrive\Máy tính\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.ForgotPassword.resources
+C:\Users\PC\OneDrive\Máy tính\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.Form1.resources
+C:\Users\PC\OneDrive\Máy tính\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.f_AdminBill.resources
+C:\Users\PC\OneDrive\Máy tính\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.Login.resources
+C:\Users\PC\OneDrive\Máy tính\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.f_TableManager.resources
+C:\Users\PC\OneDrive\Máy tính\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.AdminFood.resources
+C:\Users\PC\OneDrive\Máy tính\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.AdminCategory.resources
+C:\Users\PC\OneDrive\Máy tính\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.Properties.Resources.resources
+C:\Users\PC\OneDrive\Máy tính\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive\Máy tính\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Máy tính\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.csproj.CopyComplete
+C:\Users\PC\OneDrive\Máy tính\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.exe
+C:\Users\PC\OneDrive\Máy tính\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(sapfinalroinha)\QuanLyQuanBida(moinhat)\Testform\PlayerUI\obj\Debug\QuanLyBanBida.pdb
+C:\Users\PC\OneDrive\Máy tính\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\QuanLyBanBida.exe.config
+C:\Users\PC\OneDrive\Máy tính\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\QuanLyBanBida.exe
+C:\Users\PC\OneDrive\Máy tính\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\QuanLyBanBida.pdb
+C:\Users\PC\OneDrive\Máy tính\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\Guna.UI2.dll
+C:\Users\PC\OneDrive\Máy tính\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC\OneDrive\Máy tính\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PC\OneDrive\Máy tính\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\PdfSharp.Charting.dll
+C:\Users\PC\OneDrive\Máy tính\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\PdfSharp.dll
+C:\Users\PC\OneDrive\Máy tính\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\RestSharp.dll
+C:\Users\PC\OneDrive\Máy tính\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\System.Buffers.dll
+C:\Users\PC\OneDrive\Máy tính\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\System.Memory.dll
+C:\Users\PC\OneDrive\Máy tính\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC\OneDrive\Máy tính\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC\OneDrive\Máy tính\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\PC\OneDrive\Máy tính\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\System.Text.Json.dll
+C:\Users\PC\OneDrive\Máy tính\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\PC\OneDrive\Máy tính\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\System.ValueTuple.dll
+C:\Users\PC\OneDrive\Máy tính\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\PC\OneDrive\Máy tính\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PC\OneDrive\Máy tính\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\PdfSharp.xml
+C:\Users\PC\OneDrive\Máy tính\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\PdfSharp.Charting.xml
+C:\Users\PC\OneDrive\Máy tính\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\RestSharp.xml
+C:\Users\PC\OneDrive\Máy tính\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\System.Buffers.xml
+C:\Users\PC\OneDrive\Máy tính\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\System.Memory.xml
+C:\Users\PC\OneDrive\Máy tính\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC\OneDrive\Máy tính\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC\OneDrive\Máy tính\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\PC\OneDrive\Máy tính\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\System.Text.Json.xml
+C:\Users\PC\OneDrive\Máy tính\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\PC\OneDrive\Máy tính\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\System.ValueTuple.xml
+C:\Users\PC\OneDrive\Máy tính\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\PC\OneDrive\Máy tính\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\PC\OneDrive\Máy tính\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Máy tính\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\OneDrive\Máy tính\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.AccountProfile.resources
+C:\Users\PC\OneDrive\Máy tính\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.AdminAccount.resources
+C:\Users\PC\OneDrive\Máy tính\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.AdminCustom.resources
+C:\Users\PC\OneDrive\Máy tính\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.AdminTable.resources
+C:\Users\PC\OneDrive\Máy tính\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.Chatbot.resources
+C:\Users\PC\OneDrive\Máy tính\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.ForgotPassword.resources
+C:\Users\PC\OneDrive\Máy tính\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.Form1.resources
+C:\Users\PC\OneDrive\Máy tính\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.f_AdminBill.resources
+C:\Users\PC\OneDrive\Máy tính\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.Login.resources
+C:\Users\PC\OneDrive\Máy tính\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.f_TableManager.resources
+C:\Users\PC\OneDrive\Máy tính\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.AdminFood.resources
+C:\Users\PC\OneDrive\Máy tính\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.AdminCategory.resources
+C:\Users\PC\OneDrive\Máy tính\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.Properties.Resources.resources
+C:\Users\PC\OneDrive\Máy tính\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive\Máy tính\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Máy tính\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.csproj.CopyComplete
+C:\Users\PC\OneDrive\Máy tính\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.exe
+C:\Users\PC\OneDrive\Máy tính\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.pdb
+C:\Users\Fuleim\Downloads\QuanLiQuanBida_Nhom_10\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\QuanLyBanBida.exe.config
+C:\Users\Fuleim\Downloads\QuanLiQuanBida_Nhom_10\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\QuanLyBanBida.exe
+C:\Users\Fuleim\Downloads\QuanLiQuanBida_Nhom_10\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\QuanLyBanBida.pdb
+C:\Users\Fuleim\Downloads\QuanLiQuanBida_Nhom_10\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\Guna.UI2.dll
+C:\Users\Fuleim\Downloads\QuanLiQuanBida_Nhom_10\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Fuleim\Downloads\QuanLiQuanBida_Nhom_10\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Fuleim\Downloads\QuanLiQuanBida_Nhom_10\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Fuleim\Downloads\QuanLiQuanBida_Nhom_10\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\PdfSharp.dll
+C:\Users\Fuleim\Downloads\QuanLiQuanBida_Nhom_10\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\RestSharp.dll
+C:\Users\Fuleim\Downloads\QuanLiQuanBida_Nhom_10\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\System.Buffers.dll
+C:\Users\Fuleim\Downloads\QuanLiQuanBida_Nhom_10\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\System.Memory.dll
+C:\Users\Fuleim\Downloads\QuanLiQuanBida_Nhom_10\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Fuleim\Downloads\QuanLiQuanBida_Nhom_10\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Fuleim\Downloads\QuanLiQuanBida_Nhom_10\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Fuleim\Downloads\QuanLiQuanBida_Nhom_10\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\System.Text.Json.dll
+C:\Users\Fuleim\Downloads\QuanLiQuanBida_Nhom_10\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Fuleim\Downloads\QuanLiQuanBida_Nhom_10\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\System.ValueTuple.dll
+C:\Users\Fuleim\Downloads\QuanLiQuanBida_Nhom_10\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Fuleim\Downloads\QuanLiQuanBida_Nhom_10\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Fuleim\Downloads\QuanLiQuanBida_Nhom_10\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\PdfSharp.xml
+C:\Users\Fuleim\Downloads\QuanLiQuanBida_Nhom_10\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Fuleim\Downloads\QuanLiQuanBida_Nhom_10\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\RestSharp.xml
+C:\Users\Fuleim\Downloads\QuanLiQuanBida_Nhom_10\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\System.Buffers.xml
+C:\Users\Fuleim\Downloads\QuanLiQuanBida_Nhom_10\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\System.Memory.xml
+C:\Users\Fuleim\Downloads\QuanLiQuanBida_Nhom_10\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Fuleim\Downloads\QuanLiQuanBida_Nhom_10\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Fuleim\Downloads\QuanLiQuanBida_Nhom_10\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Fuleim\Downloads\QuanLiQuanBida_Nhom_10\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\System.Text.Json.xml
+C:\Users\Fuleim\Downloads\QuanLiQuanBida_Nhom_10\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Fuleim\Downloads\QuanLiQuanBida_Nhom_10\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\System.ValueTuple.xml
+C:\Users\Fuleim\Downloads\QuanLiQuanBida_Nhom_10\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Fuleim\Downloads\QuanLiQuanBida_Nhom_10\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\Fuleim\Downloads\QuanLiQuanBida_Nhom_10\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.csproj.AssemblyReference.cache
+C:\Users\Fuleim\Downloads\QuanLiQuanBida_Nhom_10\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fuleim\Downloads\QuanLiQuanBida_Nhom_10\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.AccountProfile.resources
+C:\Users\Fuleim\Downloads\QuanLiQuanBida_Nhom_10\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.AdminAccount.resources
+C:\Users\Fuleim\Downloads\QuanLiQuanBida_Nhom_10\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.AdminCustom.resources
+C:\Users\Fuleim\Downloads\QuanLiQuanBida_Nhom_10\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.AdminTable.resources
+C:\Users\Fuleim\Downloads\QuanLiQuanBida_Nhom_10\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.Chatbot.resources
+C:\Users\Fuleim\Downloads\QuanLiQuanBida_Nhom_10\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.ForgotPassword.resources
+C:\Users\Fuleim\Downloads\QuanLiQuanBida_Nhom_10\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.Form1.resources
+C:\Users\Fuleim\Downloads\QuanLiQuanBida_Nhom_10\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.f_AdminBill.resources
+C:\Users\Fuleim\Downloads\QuanLiQuanBida_Nhom_10\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.Login.resources
+C:\Users\Fuleim\Downloads\QuanLiQuanBida_Nhom_10\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.f_TableManager.resources
+C:\Users\Fuleim\Downloads\QuanLiQuanBida_Nhom_10\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.AdminFood.resources
+C:\Users\Fuleim\Downloads\QuanLiQuanBida_Nhom_10\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.AdminCategory.resources
+C:\Users\Fuleim\Downloads\QuanLiQuanBida_Nhom_10\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.Properties.Resources.resources
+C:\Users\Fuleim\Downloads\QuanLiQuanBida_Nhom_10\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.csproj.GenerateResource.cache
+C:\Users\Fuleim\Downloads\QuanLiQuanBida_Nhom_10\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.csproj.CoreCompileInputs.cache
+C:\Users\Fuleim\Downloads\QuanLiQuanBida_Nhom_10\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.csproj.CopyComplete
+C:\Users\Fuleim\Downloads\QuanLiQuanBida_Nhom_10\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.exe
+C:\Users\Fuleim\Downloads\QuanLiQuanBida_Nhom_10\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.pdb
+C:\Users\Fuleim\Downloads\QuanLiQuanBida_Nhom_10\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Fuleim\Downloads\QuanLiQuanBida_Nhom_10\QuanLiQuanBida_Nhom_10\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\System.Net.Http.Formatting.xml
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\QuanLyBanBida.exe.config
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\QuanLyBanBida.exe
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\QuanLyBanBida.pdb
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\Guna.UI2.dll
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\Newtonsoft.Json.dll
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\PdfSharp.Charting.dll
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\PdfSharp.dll
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\RestSharp.dll
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\System.Buffers.dll
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\System.Memory.dll
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\System.Net.Http.Formatting.dll
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\System.Numerics.Vectors.dll
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\System.Text.Encodings.Web.dll
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\System.Text.Json.dll
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\System.ValueTuple.dll
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\Newtonsoft.Json.xml
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\PdfSharp.xml
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\PdfSharp.Charting.xml
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\RestSharp.xml
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\System.Buffers.xml
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\System.Memory.xml
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\System.Net.Http.Formatting.xml
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\System.Numerics.Vectors.xml
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\System.Text.Encodings.Web.xml
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\System.Text.Json.xml
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\System.ValueTuple.xml
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\de\PdfSharp.resources.dll
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\de\PdfSharp.Charting.resources.dll
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.csproj.AssemblyReference.cache
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.AccountProfile.resources
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.AdminAccount.resources
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.AdminCustom.resources
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.AdminTable.resources
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.ForgotPassword.resources
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.Form1.resources
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.f_AdminBill.resources
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.Login.resources
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.f_TableManager.resources
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.AdminFood.resources
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.AdminCategory.resources
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.Properties.Resources.resources
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.csproj.GenerateResource.cache
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.csproj.CopyComplete
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.exe
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.pdb
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.ChatAi.resources
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\Microsoft.Extensions.Configuration.dll
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\Microsoft.Extensions.Http.dll
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\Microsoft.Extensions.Logging.dll
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\Microsoft.Extensions.Options.dll
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\Microsoft.Extensions.Primitives.dll
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\OpenAI_API.dll
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\Microsoft.Extensions.Configuration.xml
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\Microsoft.Extensions.Http.xml
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\Microsoft.Extensions.Logging.xml
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\Microsoft.Extensions.Options.xml
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\Microsoft.Extensions.Primitives.xml
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\OpenAI_API.xml
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.csproj.SuggestedBindingRedirects.cache
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.exe.config
+\\vmware-host\Shared Folders\WorkSpace\QuanLiQuanBida\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.ChatBot.resources
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\QuanLyBanBida.exe.config
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\QuanLyBanBida.exe
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\QuanLyBanBida.pdb
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\Guna.UI2.dll
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\Microsoft.Extensions.Http.dll
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\Microsoft.Extensions.Options.dll
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\Newtonsoft.Json.dll
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\OpenAI_API.dll
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\PdfSharp.Charting.dll
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\PdfSharp.dll
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\RestSharp.dll
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\System.Buffers.dll
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\System.Memory.dll
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\System.Net.Http.Formatting.dll
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\System.Numerics.Vectors.dll
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\System.Text.Encodings.Web.dll
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\System.Text.Json.dll
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\System.ValueTuple.dll
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\Microsoft.Extensions.Http.xml
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\Microsoft.Extensions.Options.xml
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\Newtonsoft.Json.xml
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\OpenAI_API.xml
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\PdfSharp.xml
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\PdfSharp.Charting.xml
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\RestSharp.xml
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\System.Buffers.xml
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\System.Memory.xml
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\System.Net.Http.Formatting.xml
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\System.Numerics.Vectors.xml
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\System.Text.Encodings.Web.xml
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\System.Text.Json.xml
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\System.ValueTuple.xml
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\de\PdfSharp.resources.dll
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.csproj.AssemblyReference.cache
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.AccountProfile.resources
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.AdminAccount.resources
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.AdminCustom.resources
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.AdminTable.resources
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.ChatAi.resources
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.ChatBot.resources
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.ForgotPassword.resources
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.Form1.resources
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.f_AdminBill.resources
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.Login.resources
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.f_TableManager.resources
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.AdminFood.resources
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.AdminCategory.resources
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.Properties.Resources.resources
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.csproj.GenerateResource.cache
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.csproj.CoreCompileInputs.cache
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.csproj.CopyComplete
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.exe
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.pdb
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.ViewerPDF.resources
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\Spire.Pdf.dll
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\Spire.PdfViewer.Asp.dll
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\Spire.PdfViewer.Forms.dll
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\Microsoft.mshtml.dll
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\Spire.Pdf.xml
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\Spire.PdfViewer.Asp.xml
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\Spire.PdfViewer.Forms.xml
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\DevExpress.Data.Desktop.v23.2.dll
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\DevExpress.Data.v23.2.dll
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\DevExpress.Drawing.v23.2.dll
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\DevExpress.Printing.v23.2.Core.dll
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\DevExpress.Utils.v23.2.dll
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\DevExpress.Pdf.v23.2.Core.dll
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\DevExpress.Pdf.v23.2.Drawing.dll
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\DevExpress.Data.Desktop.v23.2.xml
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\DevExpress.Data.v23.2.xml
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\DevExpress.Drawing.v23.2.xml
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\DevExpress.Printing.v23.2.Core.xml
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\DevExpress.Utils.v23.2.xml
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\DevExpress.Pdf.v23.2.Core.xml
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\DevExpress.Pdf.v23.2.Drawing.xml
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.AdminBill1.resources
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\DevExpress.Sparkline.v23.2.Core.dll
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\DevExpress.XtraEditors.v23.2.dll
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\DevExpress.Sparkline.v23.2.Core.xml
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\DevExpress.XtraEditors.v23.2.xml
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\DevExpress.XtraBars.v23.2.dll
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\bin\Debug\DevExpress.XtraBars.v23.2.xml
+D:\programdata\netFramework\source\repos\PhanMem_QuanLiQuanBiDa\PlayerUI\obj\Debug\QuanLyBanBida.TableManager1.resources
